@@ -1,0 +1,1 @@
+streamlit run "C:\Users\krant\OneDrive\Desktop\Multiple-Disease-Predictive-System-master\multiple disease predicting.py"
